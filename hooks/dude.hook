@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Upgrade
+Type = Package
+Target = *
+
+[Action]
+Description = Check for new orphans
+When = PostTransaction
+Exec = /usr/bin/dude --hook
+NeedsTargets
