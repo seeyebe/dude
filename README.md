@@ -2,6 +2,8 @@
 
 **dude** is a secure, single-binary CLI utility that helps you **identify, preview, and safely remove orphaned packages** from your Arch Linux system. Featuring a colorized TUI and a safety-first workflow, dude is designed for maintainability and ease of use.
 
+[![TUI Example](https://i.postimg.cc/C1ZjbBYp/image.png)](https://postimg.cc/5YVYVt6s)
+
 ---
 
 ## Installation
