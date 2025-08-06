@@ -1,6 +1,6 @@
 [package]
 name = "dude"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["seeyebe"]
 description = "A single-binary helper that discovers, previews and removes pacman orphans"
